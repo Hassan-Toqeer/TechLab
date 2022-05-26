@@ -20,7 +20,7 @@ const port = process.env.PORT || 4000;
 
 dotenv.config();
 mongoose.connect(
-  "mongodb+srv://admin:admin@cluster0.vqtqm.mongodb.net/cluster0?retryWrites=true&w=majority",
+  "mongodb+srv://wasif:Comsats1@fyp.xwu6g.mongodb.net/?retryWrites=true&w=majority",
   {},
   () => {
     console.log("Database connected...");

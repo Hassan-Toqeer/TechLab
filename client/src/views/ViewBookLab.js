@@ -105,7 +105,6 @@ function ViewBookLab(props) {
 
           <div className="table-responsive">
             <table className="table">
-              <color="primary">
               <thead>
                 <tr>
                   <th scope="col">By</th>
